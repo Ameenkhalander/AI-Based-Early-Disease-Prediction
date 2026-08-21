@@ -1,0 +1,2 @@
+// client.ts -- typed fetch wrapper around the FastAPI backend.
+// One function per endpoint in docs/API.md. Implemented in Phase 17.
